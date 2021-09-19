@@ -2,7 +2,7 @@ public class Marks6{
 
     public static void main(String[] args) {
 
-    int math=80;
+    int math=80;a
 	int english=50;
 	int java=80;
 	int be=68;
@@ -30,6 +30,8 @@ if(percentage<=50){
 
 
 	}
+	System.out.println("follow Sops"){
+		
 }
 
 
